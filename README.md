@@ -19,4 +19,3 @@ To launch the program, you will need the librairies '**chalk**'(to display with 
 
 ### Elements used
 We used [Node.js](https://nodejs.org/en/) to execute the program, [Grunt](http://gruntjs.com/)  to check the syntax mistakes, [Webstorm](https://www.jetbrains.com/webstorm/) from Jetbrains as an IDE, and finally [GitHub](https://github.com/) (and gitignore) to share the project between us.
-"# Project-JavaScript-Node-RungisMarket" 
